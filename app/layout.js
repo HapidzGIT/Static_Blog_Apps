@@ -12,25 +12,32 @@ export const metadata = {
 export default function RootLayout({ children }) {
   const header = (
     <header>
-      <Link href={'/'}>
-        <h1 className="text-2xl">Halo 👋 Hafidz's Blog 💻</h1>
-      </Link>
+      <div className="text-center bg-slate-200 my-6 rounded-md p-8">
+        <Link href={'/'}>
+          <h1 className="text-xl lg:text-2xl mb-3 font-bold">Hafidz's Blog 💻</h1>
+        </Link>
+        <p className="font-medium">The place where you can find my thought 💭 and expreince🍃</p>
+      </div>
     </header>
   );
 
   const footer = (
     <footer>
-      <Link href={'/'}>
-        <h2>Built by Muhammad Hafidz</h2>
-      </Link>
+      <div className="text-center">
+        <Link href={'/'}>
+          <h2 className="mt-10 mb-3 border-t pt-5 text-md md:text-xl">Create With ✨ By Muhammad Hafidz</h2>
+        </Link>
+      </div>
     </footer>
   );
   return (
     <html lang="en">
       <body className={inter.className}>
-        {header}
-        {children}
-        {footer}
+        <div className="mx-auto max-w-3xl container px-8">
+          {header}
+          {children}
+          {footer}
+        </div>
       </body>
     </html>
   );

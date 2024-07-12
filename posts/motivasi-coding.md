@@ -1,5 +1,5 @@
 ---
-title: "Building a QR code micro-app"
+title: "Motivasi Coding"
 subtitle: "Build a serverless 'hello-world' QR code app with Python and AWS."
 date: "2021-08-14"
 ---
@@ -12,7 +12,7 @@ In this post, I'll be sharing how I built this using Python and AWS free tier.
 
 You can try out the [app itself here](https://qr.pixegami.com/). The [source code](https://github.com/pixegami/qr-code-webapp) is also available on GitHub.
 
-![images/qr-code-demo.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1628899108564/NGWiGc3-w.gif)
+![images/qr-code-demo.gif](https://media.tenor.com/g1eVxcKa4wcAAAAM/javascript.gif)
 
 ## What is a QR Code?
 

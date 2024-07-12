@@ -1,5 +1,5 @@
 ---
-title: "Getting Started with AWS"
+title: "Laravel Backend"
 subtitle: "Create an AWS account and set up CLI/SDK access."
 date: "2020-12-27"
 ---
