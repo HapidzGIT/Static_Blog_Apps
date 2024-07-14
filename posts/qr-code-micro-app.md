@@ -12,7 +12,8 @@ In this post, I'll be sharing how I built this using Python and AWS free tier.
 
 You can try out the [app itself here](https://qr.pixegami.com/). The [source code](https://github.com/pixegami/qr-code-webapp) is also available on GitHub.
 
-![images/keychron-k2-product_1400x.jpg](images/keychron-k2-product_1400x.jpg)
+<img src="/React-icon.svg.png" alt="React Icon" width="200">
+
 
 ## What is a QR Code?
 
@@ -22,7 +23,8 @@ We've all seen and used them before, but how does a QR code actually work? The f
 
 As long an image respects these standard, it is a "QR code" and can be understood by most smartphone cameras. The image itself also has a kind of anatomy:
 
-![images/keychron-k2-product_1400x.jpg](images/keychron-k2-product_1400x.jpg)
+<img src="/React-icon.svg.png" alt="React Icon" width="200">
+
 
 It is quite interesting, but ultimately these were the three things I cared about:
 

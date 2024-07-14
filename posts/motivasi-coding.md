@@ -1,6 +1,6 @@
 ---
 title: "Motivasi Coding"
-subtitle: "Build a serverless 'hello-world' QR code app with Python and AWS."
+subtitle: "Pengalaman ku agar menjaga semangat untuk koding"
 date: "2021-08-14"
 ---
 
